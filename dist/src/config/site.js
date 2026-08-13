@@ -1,5 +1,5 @@
 export const site = {
-  name: '[NOMBRE DEL PROYECTO]',
+  name: 'GuaraTiers',
   tagline: 'Minecraft PvP Competitive Rankings',
   scoreSource: 'peak', // change to "current" to calculate global points from current tiers
   demoLabel: 'DEMO DATA — fictional rankings for product preview only',
